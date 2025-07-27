@@ -23,5 +23,5 @@ A backend and security enthusiast.
 ### 📈 Language Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plaxer&layout=compact&hide_border=true&theme=transparent" alt="plaxer's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plaaxer&layout=compact&hide_border=true&theme=transparent" alt="plaaxer's top languages" />
 </p>
